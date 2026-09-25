@@ -1,0 +1,7 @@
+estrategia,custo,passos,nos_expandidos,fronteira_max
+BFS,52,22,123,12
+DFS,109,46,91,44
+UCS,37,22,123,18
+A*_h1,37,22,123,18
+A*_h2,37,22,114,24
+A*_h3,42,24,26,28
